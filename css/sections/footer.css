@@ -1,0 +1,10 @@
+.footer{
+    font-family: 'Inter', sans-serif;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #9A7E78;
+    backdrop-filter: blur(10px);
+    padding: 20px 0;
+}
